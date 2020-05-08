@@ -1,0 +1,12 @@
+{
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "php": ">=7.2.0"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
